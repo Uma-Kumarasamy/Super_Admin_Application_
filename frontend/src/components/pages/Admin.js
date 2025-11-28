@@ -145,7 +145,7 @@ const Admin = () => {
         .then((updatedAdmin) => {
           const id = `ADM${updatedAdmin.id}`;
           const updatedWithFeatures = {
-            ...updatedAdmin,
+            ...updatedAdmin,  
             name: `${updatedAdmin.firstname} ${updatedAdmin.lastname}`,
             id,
             features: selectedFeatures,
