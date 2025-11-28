@@ -1,4 +1,4 @@
-# Super Admin Application
+# 🚀🔥 Super Admin Application 🔥🚀
 
 ## Overview
 This Super Admin Application is designed to manage admins, doctors, and their accessible features within a healthcare-related environment. It allows a super admin to add and manage admin users, doctors, and assign features accessible to each role. The super admin can also create new features dynamically.
@@ -7,7 +7,7 @@ The application provides a centralized control system where the super admin can 
 
 ---
 
-## Features
+## 🚀Features
 - Add, update, and manage Admin user details.
 - Add, update, and manage Doctor details.
 - Define and assign features that admins can access.
